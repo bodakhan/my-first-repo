@@ -7,7 +7,7 @@ body {
 
 h2 {
   text-align: center;
-  color: white;
+  color: greenyellow;
   margin-top: 70px;
 }
 
@@ -79,7 +79,7 @@ ul li:nth-child(7) {
 }
 
 ul li:nth-child(8) {
-  animation-delay: -0.2s;
+  animation-delay: 0s;
   background: greenyellow;
   box-shadow: 0 0 50px greenyellow;
 }
